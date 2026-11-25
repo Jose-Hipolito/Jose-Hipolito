@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá! Eu sou o José Hipólito 👋
 
-<!--
-**Jose-Hipolito/Jose-Hipolito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente sou estudante de **Desenvolvimento de Sistemas** na **EEEP Maria Carmem Viera Moreira**.
+💻 Apaixonado por tecnologia, lógica de programação e pela construção de soluções digitais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  O que estou estudando e praticando
+- **Lógica de Programação e Algoritmos**
+- **Linguagens de Programação:** *(Ex: Python, Java, C#, PHP - deixe as que você está vendo no curso)*
+- **Versionamento de Código:** Git e GitHub
+
+---
+
+⭐️ *Em constante aprendizado e evolução na área de tecnologia!*
