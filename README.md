@@ -69,13 +69,13 @@ EEEP Maria Carmem Vieira Moreira | Brasil
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=josehipolito&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jose-Hipolito&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josehipolito&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Hipolito&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=josehipolito&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Jose-Hipolito&theme=tokyonight&hide_border=true"/>
 
 </div>
 
