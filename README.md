@@ -7,7 +7,7 @@
 
 **ESTUDANTE DE DESENVOLVIMENTO DE SISTEMAS**
 
-EEEP Maria Carmem Vieira Moreira | Brasil
+EEEP Maria Carmem Vieira Moreira |  Maracanaú | Ceará
 
 <br>
 
@@ -22,18 +22,10 @@ EEEP Maria Carmem Vieira Moreira | Brasil
 
 Olá! Sou José Hipólito, estudante de Desenvolvimento de Sistemas na EEEP Maria Carmem Vieira Moreira.
 
-Estou construindo minha trajetória na área da tecnologia, desenvolvendo conhecimentos em programação, lógica computacional e ferramentas digitais.
-
 Atualmente:
 
 - Estudando Python.
 - Aprendendo lógica de programação com Portugol.
-- Tenho conhecimentos em Microsoft Excel.
-- Explorando ferramentas de desenvolvimento.
-- Buscando desenvolver meus primeiros projetos.
-
-Meu objetivo é evoluir constantemente e transformar ideias em soluções através da tecnologia.
-
 ---
 
 ## 02. Tecnologias e ferramentas
@@ -45,52 +37,16 @@ Meu objetivo é evoluir constantemente e transformar ideias em soluções atrav�
 <br><br>
 
 <img src="https://img.shields.io/badge/PORTUGOL-ESTUDANDO-00D9FF?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/MICROSOFT_EXCEL-CONHECIMENTOS-217346?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
 ---
 
-## 03. Conhecimentos atuais
-
-| Tecnologia | Nível atual |
-|:---|:---|
-| Python | Aprendendo |
-| Portugol | Aprendendo |
-| Microsoft Excel | Básico |
-| Lógica de programação | Em desenvolvimento |
-| Git e GitHub | Explorando |
-
----
-
-## 04. Minha jornada
-
-```text
-╔══════════════════════════════════════════╗
-║             LEARNING JOURNEY             ║
-╠══════════════════════════════════════════╣
-║                                          ║
-║  [OK] Primeiro contato com programação   ║
-║  [OK] Lógica de programação com Portugol ║
-║  [OK] Iniciando estudos em Python        ║
-║  [OK] Conhecendo ferramentas digitais    ║
-║                                          ║
-║  [>>] Desenvolver primeiros projetos     ║
-║  [  ] Aprofundar conhecimentos em Python ║
-║  [  ] Aprender novas linguagens          ║
-║  [  ] Explorar novas tecnologias         ║
-║  [  ] Evoluir como desenvolvedor         ║
-║                                          ║
-╚══════════════════════════════════════════╝
-```
-
----
-
-## 05. Developer Dashboard
+## 03. Developer Dashboard
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jose-Hipolito&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" width="100%"/>
 
 </div>
 
@@ -98,7 +54,7 @@ Meu objetivo é evoluir constantemente e transformar ideias em soluções atrav�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut-vertical&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Hipolito&layout=donut-vertical&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9"/>
 
 </div>
 
@@ -106,11 +62,11 @@ Meu objetivo é evoluir constantemente e transformar ideias em soluções atrav�
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jose-Hipolito&theme=github_dark" width="100%"/>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jose-Hipolito&theme=github-dark-blue&hide_border=true" width="100%"/>
 
 </div>
 
