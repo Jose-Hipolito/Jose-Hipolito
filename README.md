@@ -1,47 +1,59 @@
 
 <div align="center">
 
-# José Hipólito
+# JOSÉ HIPÓLITO
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=550&lines=Estudante+de+programa%C3%A7%C3%A3o;Aprendendo+Python+e+Portugol;Construindo+meu+futuro+na+tecnologia;Sempre+evoluindo." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Sistemas;Aprendendo+Python+e+Portugol;Explorando+o+mundo+da+tecnologia;Sempre+evoluindo." />
 
-**Estudante de Desenvolvimento e Tecnologia**
+**ESTUDANTE DE DESENVOLVIMENTO DE SISTEMAS**
 
 EEEP Maria Carmem Vieira Moreira | Brasil
 
+<br>
+
+<img src="https://img.shields.io/badge/FOCUS-TECHNOLOGY-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-217346?style=for-the-badge&labelColor=0D1117"/>
+
 </div>
 
 ---
 
-## Sobre mim
+## 01. Sobre mim
 
-- Estudante da EEEP Maria Carmem Vieira Moreira.
-- Atualmente aprendendo programação.
-- Estudando Python e Portugol.
-- Conhecimentos em Microsoft Excel.
-- Desenvolvendo minha lógica de programação.
-- Buscando aprender novas tecnologias e criar projetos.
+Olá! Sou José Hipólito, estudante de Desenvolvimento de Sistemas na EEEP Maria Carmem Vieira Moreira.
+
+Estou construindo minha trajetória na área da tecnologia, desenvolvendo conhecimentos em programação, lógica computacional e ferramentas digitais.
+
+Atualmente:
+
+- Estudando Python.
+- Aprendendo lógica de programação com Portugol.
+- Tenho conhecimentos em Microsoft Excel.
+- Explorando ferramentas de desenvolvimento.
+- Buscando desenvolver meus primeiros projetos.
+
+Meu objetivo é evoluir constantemente e transformar ideias em soluções através da tecnologia.
 
 ---
 
-## Tecnologias e ferramentas
+## 02. Tecnologias e ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,vscode,git,github" />
+<img src="https://skillicons.dev/icons?i=python,vscode,git,github&theme=dark" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Portugol-Estudando-00D9FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-Conhecimentos-217346?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PORTUGOL-ESTUDANDO-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/MICROSOFT_EXCEL-CONHECIMENTOS-217346?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
 ---
 
-## Conhecimentos
+## 03. Conhecimentos atuais
 
-| Tecnologia | Nível |
+| Tecnologia | Nível atual |
 |:---|:---|
 | Python | Aprendendo |
 | Portugol | Aprendendo |
@@ -51,31 +63,66 @@ EEEP Maria Carmem Vieira Moreira | Brasil
 
 ---
 
-## Minha jornada
+## 04. Minha jornada
 
 ```text
-[OK] Primeiro contato com programação
-[OK] Aprendendo lógica com Portugol
-[OK] Iniciando os estudos em Python
-[OK] Conhecendo ferramentas de tecnologia
-[  ] Desenvolver meus primeiros projetos
-[  ] Aprender novas linguagens
-[  ] Evoluir como desenvolvedor
+╔══════════════════════════════════════════╗
+║             LEARNING JOURNEY             ║
+╠══════════════════════════════════════════╣
+║                                          ║
+║  [OK] Primeiro contato com programação   ║
+║  [OK] Lógica de programação com Portugol ║
+║  [OK] Iniciando estudos em Python        ║
+║  [OK] Conhecendo ferramentas digitais    ║
+║                                          ║
+║  [>>] Desenvolver primeiros projetos     ║
+║  [  ] Aprofundar conhecimentos em Python ║
+║  [  ] Aprender novas linguagens          ║
+║  [  ] Explorar novas tecnologias         ║
+║  [  ] Evoluir como desenvolvedor         ║
+║                                          ║
+╚══════════════════════════════════════════╝
 ```
 
 ---
 
-## Estatísticas do GitHub
+## 05. Developer Dashboard
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jose-Hipolito&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Minha%20atividade%20no%20GitHub" width="100%"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jose-Hipolito&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+### Linguagens em destaque
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=donut-vertical&theme=transparent&hide_border=true&title_color=00d9ff&text_color=c9d1d9"/>
+
+</div>
+
+### Minha evolução
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=github_dark" width="100%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Jose-Hipolito&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=github-dark-blue&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 06. Projetos
+
+<div align="center">
+
+**EM BREVE**
+
+Novos projetos, aprendizados e experiências serão adicionados aqui conforme minha evolução na programação.
 
 </div>
 
@@ -83,8 +130,12 @@ EEEP Maria Carmem Vieira Moreira | Brasil
 
 <div align="center">
 
-**"Todo especialista já foi um iniciante."**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=2000&color=00D9FF&center=true&vCenter=true&width=500&lines=LEARN.+BUILD.+IMPROVE.+REPEAT." />
 
-Em constante aprendizado. Sempre em evolução.
+<br><br>
+
+**EST. 2026 | ALWAYS IN DEVELOPMENT**
+
+<sub>Transformando aprendizado em conhecimento e ideias em código.</sub>
 
 </div>
