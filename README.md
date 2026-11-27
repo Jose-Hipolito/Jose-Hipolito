@@ -72,18 +72,6 @@ Atualmente:
 
 ---
 
-## 06. Projetos
-
-<div align="center">
-
-**EM BREVE**
-
-Novos projetos, aprendizados e experiências serão adicionados aqui conforme minha evolução na programação.
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&pause=2000&color=00D9FF&center=true&vCenter=true&width=500&lines=LEARN.+BUILD.+IMPROVE.+REPEAT." />
